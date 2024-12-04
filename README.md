@@ -1,38 +1,49 @@
-<h2>Hi🙏🏻, I'm Alex Diaz! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align="right" src="https://s7.gifyu.com/images/SJbr0.gif" width="230">
-<p><em>Self-made Web Developer.
-</em></p>
-<p> <a href="https://www.linkedin.com/in/alejandro-diaz-perez-867832119/"><img src="https://img.shields.io/badge/-alejandro-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/alejandro-diaz-perez-867832119/" alt="Linkedin: alejandro-diaz-perez-867832119"></a>
-    <img src="https://img.shields.io/github/followers/aleless?label=Follow&amp;style=social" alt="GitHub followers">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=aleless.aleless" alt="">
-<!--
-    <img src="https://github.com/aleless/aleless/workflows/Waka%20Readme/badge.svg" alt="Waka Readme"></p>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<p>👇 Hit in your console or terminal to connect with me.</p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#B392F0">npx</span><span style="color:#9ECBFF"> aleless</span></span></code></pre>
--->
-<h3 id="-a-little-more-about-me"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me…</h3>
+###
 
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> aleless</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> {</span></span>
-<span class="line"><span style="color:#E1E4E8">    code: [</span><span style="color:#9ECBFF">"SQL"</span><span style="color:#E1E4E8">,  </span><span style="color:#9ECBFF">"Python"</span><span style="color:#E1E4E8">,  </span><span style="color:#9ECBFF">"php"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">    askMeAbout: [</span><span style="color:#9ECBFF">"web dev"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"tech"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"UX & UI"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"music"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">    technologies: {</span></span>
-<span class="line"><span style="color:#E1E4E8">        frontEnd: {</span></span>
-<span class="line"><span style="color:#E1E4E8">            js: [</span><span style="color:#9ECBFF">"Angular"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"React"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">            css: [</span><span style="color:#9ECBFF">"Bootstrap"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Materialize"</span><span style="color:#E1E4E8">]</span></span>
-<span class="line"><span style="color:#E1E4E8">        },</span></span>
-<span class="line"><span style="color:#E1E4E8">        backEnd: {</span></span>
-<span class="line"><span style="color:#E1E4E8">            js: [</span><span style="color:#9ECBFF">"node"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"MongoDB"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">            php: [</span><span style="color:#9ECBFF">"Laravel"</span><span style="color:#E1E4E8">]</span></span>
-<span class="line"><span style="color:#E1E4E8">        },</span></span>
-<span class="line"><span style="color:#E1E4E8">        databases: [</span><span style="color:#9ECBFF">"mongo"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"MySql"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"sqlite"</span><span style="color:#E1E4E8">]</span></span>
-<span class="line"><span style="color:#E1E4E8">    },</span></span>
-<span class="line"><span style="color:#E1E4E8">    architecture: [</span><span style="color:#9ECBFF">"Progressive web applications"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Single page applications"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">    currentProject: </span><span style="color:#9ECBFF">"Studying ATM"</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#E1E4E8">    funFact: </span><span style="color:#9ECBFF">"I can debug faster with a coffee in hand!"</span></span>
-<span class="line"><span style="color:#E1E4E8">};</span></span></pre>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<hr>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<hr>
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
