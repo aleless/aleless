@@ -28,7 +28,7 @@
 <span class="line"><span style="color:#E1E4E8">    },</span></span>
 <span class="line"><span style="color:#E1E4E8">    architecture: [</span><span style="color:#9ECBFF">"Progressive web applications"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Single page applications"</span><span style="color:#E1E4E8">],</span></span>
 <span class="line"><span style="color:#E1E4E8">    currentProject: </span><span style="color:#9ECBFF">"Studying ATM"</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#E1E4E8">    funFact: </span><span style="color:#9ECBFF">"There are two ways to write error-free programs; only the third one works"</span></span>
+<span class="line"><span style="color:#E1E4E8">    funFact: </span><span style="color:#9ECBFF">"I can debug faster with a coffee in hand!"</span></span>
 <span class="line"><span style="color:#E1E4E8">};</span></span></code></pre>
 <hr>
 <!--START_SECTION:waka-->
