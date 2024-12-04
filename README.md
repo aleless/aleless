@@ -5,9 +5,9 @@
 <p> <a href="https://www.linkedin.com/in/alejandro-diaz-perez-867832119/"><img src="https://img.shields.io/badge/-alejandro-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/alejandro-diaz-perez-867832119/" alt="Linkedin: alejandro-diaz-perez-867832119"></a>
     <img src="https://img.shields.io/github/followers/aleless?label=Follow&amp;style=social" alt="GitHub followers">
     <img src="https://visitor-badge.glitch.me/badge?page_id=aleless.aleless" alt="">
-
-    <img src="https://github.com/aleless/aleless/workflows/Waka%20Readme/badge.svg" alt="Waka Readme"></p>
 <!--
+    <img src="https://github.com/aleless/aleless/workflows/Waka%20Readme/badge.svg" alt="Waka Readme"></p>
+
 <p>👇 Hit in your console or terminal to connect with me.</p>
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#B392F0">npx</span><span style="color:#9ECBFF"> aleless</span></span></code></pre>
 -->
