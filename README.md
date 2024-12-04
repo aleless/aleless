@@ -12,6 +12,7 @@
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#B392F0">npx</span><span style="color:#9ECBFF"> aleless</span></span></code></pre>
 -->
 <h3 id="-a-little-more-about-me"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me…</h3>
+```
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> aleless</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> {</span></span>
 <span class="line"><span style="color:#E1E4E8">    code: [</span><span style="color:#9ECBFF">"SQL"</span><span style="color:#E1E4E8">,  </span><span style="color:#9ECBFF">"Python"</span><span style="color:#E1E4E8">,  </span><span style="color:#9ECBFF">"php"</span><span style="color:#E1E4E8">],</span></span>
 <span class="line"><span style="color:#E1E4E8">    askMeAbout: [</span><span style="color:#9ECBFF">"web dev"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"tech"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"UX & UI"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"music"</span><span style="color:#E1E4E8">],</span></span>
@@ -30,6 +31,7 @@
 <span class="line"><span style="color:#E1E4E8">    currentProject: </span><span style="color:#9ECBFF">"Studying ATM"</span><span style="color:#E1E4E8">,</span></span>
 <span class="line"><span style="color:#E1E4E8">    funFact: </span><span style="color:#9ECBFF">"I can debug faster with a coffee in hand!"</span></span>
 <span class="line"><span style="color:#E1E4E8">};</span></span></code></pre>
+```
 <hr>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
