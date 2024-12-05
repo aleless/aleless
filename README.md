@@ -38,8 +38,8 @@
         <!--
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
         -->
-        <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge" alt="SQL"/>
-        <img src="https://img.shields.io/badge/php-00ADD8?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
+        <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+        <img src="https://img.shields.io/badge/php-4f5b93?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
     </div>
@@ -48,8 +48,8 @@
     <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
     <div align="center">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-        <img src="https://img.shields.io/badge/Angular-FF3E00?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+        <img src="https://img.shields.io/badge/Node.js-80bd00?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -58,11 +58,11 @@
     <h2 align="center" class="section-heading">👾 3D Modeling + VR</h2>
     <p>I have a strong background in 3D development, with extensive experience using Unity to create interactive environments and VR experiences. Additionally, I'm proficient in Blender for modeling, texturing, and animating 3D assets. <br>I'm passionate about integrating 3D elements into web and immersive experiences, and I'm always exploring new ways to push the boundaries of virtual reality.</p>
     <div align="center">
-        <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-        <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
-        <img src="https://img.shields.io/badge/Blender-FF4000?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-        <img src="https://img.shields.io/badge/Index-141414?style=for-the-badge&logo=valve&logoColor=white" alt="Index"/>
-        <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white" alt="Oculus"/>
+        <img src="https://img.shields.io/badge/Unity-222c37?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+        <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+        <img src="https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+        <img src="https://img.shields.io/badge/Index-123468?style=for-the-badge&logo=valve&logoColor=white" alt="Index"/>
+        <img src="https://img.shields.io/badge/Oculus-1c1e20?style=for-the-badge&logo=oculus&logoColor=white" alt="Oculus"/>
     </div>
     <br>
     <div align="center">
