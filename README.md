@@ -31,9 +31,11 @@
         <h2>🚀 Github Commits</h2>
         <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects. <br>Dive into the commit messages for insights into what I've been up to!</p>
         <div align="center">
-            <img src="https://raw.githubusercontent.com/aleless/aleless/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+            <img src="https://raw.githubusercontent.com/aleless/aleless/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation"/>
         </div>
+     <!--   
         <img src="https://raw.githubusercontent.com/aleless/aleless/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+    -->
     </div>
     <h2 align="center" class="section-heading">💻 Programming Languages</h2>
     <p> While my main focus is front-end development, I have hands-on experience with SQL for database management and have worked with Python and PHP for various projects. I'm continuously expanding my skills and exploring new languages and technologies to improve my coding abilities.</p>
