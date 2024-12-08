@@ -30,6 +30,9 @@
     <div align="center">
         <h2>🚀 Github Commits</h2>
         <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects. <br>Dive into the commit messages for insights into what I've been up to!</p>
+        <div align="center">
+            <img src="https://raw.githubusercontent.com/aleless/aleless/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+        </div>
         <img src="https://raw.githubusercontent.com/aleless/aleless/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
     </div>
     <h2 align="center" class="section-heading">💻 Programming Languages</h2>
