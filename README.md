@@ -33,9 +33,6 @@
         <div align="center">
             <img src="https://raw.githubusercontent.com/aleless/aleless/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation"/>
         </div>
-     <!--   
-        <img src="https://raw.githubusercontent.com/aleless/aleless/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-    -->
     </div>
     <h2 align="center" class="section-heading">💻 Programming Languages</h2>
     <p> While my main focus is front-end development, I have hands-on experience with SQL for database management and have worked with Python and PHP for various projects. I'm continuously expanding my skills and exploring new languages and technologies to improve my coding abilities.</p>
