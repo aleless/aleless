@@ -4,7 +4,7 @@
 </div>
 <div align="center">
     <h2>👀 About Me</h2>
-    <!--     <p><img src="termina-gh.gif" alt="Terminal GH" />altImg</p> -->
+    <!--      <p><img src="termina-gh.gif" alt="Terminal GH" />altImg</p> -->
     <p>Passionate about building clean, user-friendly websites. I specialize in front-end development with a focus on creating seamless and engaging user experiences.<br> With advanced knowledge in 3D, I love exploring new ways to integrate depth and interactivity into web design.<br> Always learning and exploring new design trends to enhance UI and UX.</p>
 </div>
 <br>
