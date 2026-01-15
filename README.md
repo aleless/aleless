@@ -15,7 +15,7 @@
         <a href="https://www.linkedin.com/in/alejandro-diaz-perez-867832119">
             <img src="https://img.shields.io/badge/Alejandro Diaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
-        <!--
+        <!-- 
         <a href="https://linktr.ee/aleless">
             <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
         </a>
